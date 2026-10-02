@@ -7,8 +7,8 @@ Explore car attributes, normalize company names, engineer fuel-economy and price
 ## Run locally
 
 ```bash
-git clone https://github.com/abiy8/OIBSIP_Task3.git
-cd OIBSIP_Task3
+git clone https://github.com/abiy8/car-price-prediction.git
+cd car-price-prediction
 python -m venv .venv
 # Activate .venv for your operating system.
 pip install jupyter pandas numpy scikit-learn matplotlib seaborn statsmodels
